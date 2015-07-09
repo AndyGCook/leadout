@@ -130,23 +130,3 @@ You betcha! LeadOut should work just fine on multisite right out-of-the-box with
 How much does LeadOut cost?
 
 The basic version of LeadOut is completely free! We’re working on some additional features that we’ll change for in the future, but right now everything is free.
-
-## Screenshots ##
-
-###1. See the visit history of each contact.
-###
-
-###2. Get an email notification for every new lead.
-###
-
-###3. LeadOut stats show you where your leads are coming from.
-###
-
-###4. Segment your contact list based on page views and submissions.
-###
-
-###5. Collect more contacts with the pop-up subscribe widget.
-###
-
-###6. Create custom tagged lists, choose the form triggers to add contacts and sync your contacts to third-party email services
-###
